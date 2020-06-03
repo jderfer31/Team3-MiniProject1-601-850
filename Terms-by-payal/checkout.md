@@ -1,0 +1,1 @@
+### **Checkout**: A git checkout command will allow for the navigation between branches. Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
