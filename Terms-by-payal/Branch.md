@@ -1,0 +1,1 @@
+### **Branch**: A git branch is a snapshot of your changes to a project. The common phrase used with git branch is to “branch early and branch often”. In doing so, this will encapsulate any changes made.
