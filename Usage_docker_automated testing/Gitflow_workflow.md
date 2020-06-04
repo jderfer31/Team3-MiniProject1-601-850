@@ -17,3 +17,4 @@ This branches are used to release new development from develop to master. Any la
 
 ### feature :
 This branches are reserved for bigger features. These are specifically developed in designated branches and integrated with develop when finished. Dedicated feature branches help to separate development and to be able to deploy done features independently from each other.
+![GitFlow_Workflow](./TBHkD.png)
