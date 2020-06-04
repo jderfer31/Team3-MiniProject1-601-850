@@ -25,6 +25,6 @@
 ![Image of Release Branch](./Git_CI_GitFlow/4_ReleaseBranch.jpg)
 
 5. The master branch tracks released code only. The only commits to master are merges from release branches and hotfix branches. Hotfix branches are used to create emergency fixes. 
-1[Image of Master Branch](./Git_CI_GitFlow/5_MasterBranch.jpg)
+![Image of Master Branch](./Git_CI_GitFlow/5_MasterBranch.jpg)
 
 6. They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn’t accidentally lost when the next regular release occurs.
